@@ -1,0 +1,191 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Startup.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Startup.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Areas\Admin\Views\AdminAbout\Hakkinda_listesini_getir.cshtml" />
+    <None Include="Areas\Admin\Views\AdminAbout\Index.cshtml" />
+    <None Include="Areas\Admin\Views\AdminBlog\Index.cshtml" />
+    <None Include="Areas\Admin\Views\AdminCatch\CathReadAllKamu.cshtml" />
+    <None Include="Areas\Admin\Views\AdminCatch\Index.cshtml" />
+    <None Include="Areas\Admin\Views\AdminComment\Index.cshtml" />
+    <None Include="Areas\Admin\Views\Adminiletisimadresleri\EditİletisimAdresi.cshtml" />
+    <None Include="Areas\Admin\Views\Adminiletisimadresleri\Index.cshtml" />
+    <None Include="Areas\Admin\Views\Adminiletisim\Index.cshtml" />
+    <None Include="Areas\Admin\Views\AdminMessage\AdminMessageDetails.cshtml" />
+    <None Include="Areas\Admin\Views\AdminMessage\ComposeMessage.cshtml" />
+    <None Include="Areas\Admin\Views\AdminMessage\InBox.cshtml" />
+    <None Include="Areas\Admin\Views\AdminMessage\SendBox.cshtml" />
+    <None Include="Areas\Admin\Views\AdminNewsletter\EmailPost.cshtml" />
+    <None Include="Areas\Admin\Views\AdminNewsletter\Index.cshtml" />
+    <None Include="Areas\Admin\Views\AdminNotification\AddNotification.cshtml" />
+    <None Include="Areas\Admin\Views\AdminNotification\Index.cshtml" />
+    <None Include="Areas\Admin\Views\AdminRole\AddRole.cshtml" />
+    <None Include="Areas\Admin\Views\AdminRole\AssignRole.cshtml" />
+    <None Include="Areas\Admin\Views\AdminRole\Index.cshtml" />
+    <None Include="Areas\Admin\Views\AdminRole\UpdateRole.cshtml" />
+    <None Include="Areas\Admin\Views\AdminRole\UserRoleList.cshtml" />
+    <None Include="Areas\Admin\Views\AdminWriters\Index.cshtml" />
+    <None Include="Areas\Admin\Views\Blog\BlogListExcel.cshtml" />
+    <None Include="Areas\Admin\Views\Blog\BlogTitleListExcel.cshtml" />
+    <None Include="Areas\Admin\Views\Category\AddCategory.cshtml" />
+    <None Include="Areas\Admin\Views\Category\EditCategory.cshtml" />
+    <None Include="Areas\Admin\Views\Category\Index.cshtml" />
+    <None Include="Areas\Admin\Views\Chart\Index.cshtml" />
+    <None Include="Areas\Admin\Views\Shared\Components\imagenamemailes\Default.cshtml" />
+    <None Include="Areas\Admin\Views\Shared\Components\Sohbet\Default.cshtml" />
+    <None Include="Areas\Admin\Views\Shared\Components\Statistic1\Default.cshtml" />
+    <None Include="Areas\Admin\Views\Shared\Components\Statistic2\Default.cshtml" />
+    <None Include="Areas\Admin\Views\Shared\Components\Statistic3\Default.cshtml" />
+    <None Include="Areas\Admin\Views\Shared\Components\Statistic4\Default.cshtml" />
+    <None Include="Areas\Admin\Views\Shared\Components\Statistic5\Default.cshtml" />
+    <None Include="Areas\Admin\Views\Widget\AdminCatchPartial.cshtml" />
+    <None Include="Areas\Admin\Views\Widget\AdminSohbet.cshtml" />
+    <None Include="Areas\Admin\Views\Widget\Index.cshtml" />
+    <None Include="Areas\Admin\Views\Writer\Index.cshtml" />
+    <None Include="Areas\Admin\Views\_ViewImports.cshtml" />
+    <None Include="Views\About\AboutIndex.cshtml" />
+    <None Include="Views\About\SocialMediaAbout.cshtml" />
+    <None Include="Views\Admin\AdminNavbarPartial.cshtml" />
+    <None Include="Views\Admin\Index.cshtml" />
+    <None Include="Views\Blog\BlogAdd.cshtml" />
+    <None Include="Views\Blog\BlogListByWriter.cshtml" />
+    <None Include="Views\Blog\BlogReadAll.cshtml" />
+    <None Include="Views\Blog\EditBlog.cshtml" />
+    <None Include="Views\Blog\Index.cshtml" />
+    <None Include="Views\Blog\Searchcubugu.cshtml" />
+    <None Include="Views\Category\Index.cshtml" />
+    <None Include="Views\Comment\CommentListByBlog.cshtml" />
+    <None Include="Views\Comment\PartialAddComment.cshtml" />
+    <None Include="Views\Contact\ContactIndex.cshtml" />
+    <None Include="Views\Dashboard\Index.cshtml" />
+    <None Include="Views\EmployeeTest\AddEmployee.cshtml" />
+    <None Include="Views\EmployeeTest\DeleteEmployee.cshtml" />
+    <None Include="Views\EmployeeTest\EditEmployee.cshtml" />
+    <None Include="Views\EmployeeTest\Index.cshtml" />
+    <None Include="Views\ErrorPage\Error1.cshtml" />
+    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Home\Privacy.cshtml" />
+    <None Include="Views\Login\AccsessDenied.cshtml" />
+    <None Include="Views\Login\Index.cshtml" />
+    <None Include="Views\Message\InBox.cshtml" />
+    <None Include="Views\Message\MessageDetails.cshtml" />
+    <None Include="Views\Message\SendBox.cshtml" />
+    <None Include="Views\Message\SendMessage.cshtml" />
+    <None Include="Views\NewsLetter\AddMail.cshtml" />
+    <None Include="Views\Notification\AllNotification.cshtml" />
+    <None Include="Views\RegisteryUser\Index.cshtml" />
+    <None Include="Views\Registery\Index.cshtml" />
+    <None Include="Views\Shared\Components\AboutPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\AdminNavbarPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\adminveyazar\Default.cshtml" />
+    <None Include="Views\Shared\Components\BlogLast3Post\Default.cshtml" />
+    <None Include="Views\Shared\Components\BlogListDashboard\Default.cshtml" />
+    <None Include="Views\Shared\Components\CategoryListDashboard\Default.cshtml" />
+    <None Include="Views\Shared\Components\CategoryList\Default.cshtml" />
+    <None Include="Views\Shared\Components\CommentListByBlog\Default.cshtml" />
+    <None Include="Views\Shared\Components\commentList\Default.cshtml" />
+    <None Include="Views\Shared\Components\Contacts2\Default.cshtml" />
+    <None Include="Views\Shared\Components\Contacts\Default.cshtml" />
+    <None Include="Views\Shared\Components\EmailPartialForsosyalmedya\Default.cshtml" />
+    <None Include="Views\Shared\Components\InPageCategories\Default.cshtml" />
+    <None Include="Views\Shared\Components\InPageComments\Default.cshtml" />
+    <None Include="Views\Shared\Components\InPageEnterTitle\Default.cshtml" />
+    <None Include="Views\Shared\Components\InPageEnterYourName\Default.cshtml" />
+    <None Include="Views\Shared\Components\InPageNoCommentsMade\Default.cshtml" />
+    <None Include="Views\Shared\Components\InPageReadMore\Default.cshtml" />
+    <None Include="Views\Shared\Components\InPageSubscribe\Default.cshtml" />
+    <None Include="Views\Shared\Components\InPageYourComment\Default.cshtml" />
+    <None Include="Views\Shared\Components\LastAddedPost\Default.cshtml" />
+    <None Include="Views\Shared\Components\PageAllRightsReserved\Default.cshtml" />
+    <None Include="Views\Shared\Components\PageBlogList\Default.cshtml" />
+    <None Include="Views\Shared\Components\PageBlogs\Default.cshtml" />
+    <None Include="Views\Shared\Components\PageComment\Default.cshtml" />
+    <None Include="Views\Shared\Components\PageContactOurAuthorPartial\Default.cshtml" />
+    <None Include="Views\Shared\Components\PageEmail\Default.cshtml" />
+    <None Include="Views\Shared\Components\PageLatestPosts\Default.cshtml" />
+    <None Include="Views\Shared\Components\PageOurSocialMediaAccounts\Default.cshtml" />
+    <None Include="Views\Shared\Components\RecentPost\Default.cshtml" />
+    <None Include="Views\Shared\Components\SocialMediaAbout\Default.cshtml" />
+    <None Include="Views\Shared\Components\sosyalmedya\Default.cshtml" />
+    <None Include="Views\Shared\Components\SubscribeEMail\Default.cshtml" />
+    <None Include="Views\Shared\Components\TechnologySoftwareOtherBlog\Default.cshtml" />
+    <None Include="Views\Shared\Components\UserLayoutNavbar\Default.cshtml" />
+    <None Include="Views\Shared\Components\WriterAboutOnDashboard\Default.cshtml" />
+    <None Include="Views\Shared\Components\WriterLastBlog\Default.cshtml" />
+    <None Include="Views\Shared\Components\WriterMessageNotification\Default.cshtml" />
+    <None Include="Views\Shared\Components\WriterNavbarPartialsprofilesNameAndMailes\Default.cshtml" />
+    <None Include="Views\Shared\Components\WriterNotification\Default.cshtml" />
+    <None Include="Views\Shared\Components\WriterProfile\Default.cshtml" />
+    <None Include="Views\Shared\Components\WriterUsernamesandImages\Default.cshtml" />
+    <None Include="Views\Shared\Components\yazarinhesaplari\Default.cshtml" />
+    <None Include="Views\Shared\Components\_SearchBox\Default.cshtml" />
+    <None Include="Views\Shared\Error.cshtml" />
+    <None Include="Views\Shared\Partial1.cshtml" />
+    <None Include="Views\Shared\Partial2.cshtml" />
+    <None Include="Views\Shared\Partial3.cshtml" />
+    <None Include="Views\Shared\_AdminLayout.cshtml" />
+    <None Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Views\Shared\_SearchBox.cshtml" />
+    <None Include="Views\Shared\_UserLayout.cshtml" />
+    <None Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <None Include="Views\Shared\_WriterLayout.cshtml" />
+    <None Include="Views\Writer\Index.cshtml" />
+    <None Include="Views\Writer\Test.cshtml" />
+    <None Include="Views\Writer\WriterAdd.cshtml" />
+    <None Include="Views\Writer\WriterEditProfiles.cshtml" />
+    <None Include="Views\Writer\WriterFooterPartial.cshtml" />
+    <None Include="Views\Writer\WriterMail.cshtml" />
+    <None Include="Views\Writer\WriterNavBarPartial.cshtml" />
+    <None Include="Views\Writer\WriterProfile.cshtml" />
+    <None Include="Views\_ViewImports.cshtml" />
+    <None Include="Views\_ViewStart.cshtml" />
+    <None Include="wwwroot\ads.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinnesLayer\BusinnesLayer.csproj" />
+    <ProjectReference Include="..\DataAccsessLayer\DataAccsessLayer.csproj" />
+    <ProjectReference Include="..\EntityLayer\EntityLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.AI.Translation.Text" Version="1.0.0-beta.1" />
+    <PackageReference Include="bootstrap" Version="5.3.1" />
+    <PackageReference Include="ClosedXML" Version="0.100.3" />
+    <PackageReference Include="FluentValidation" Version="11.4.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.20" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Localization" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.20">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.20">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="6.0.20" />
+    <PackageReference Include="Microsoft.Extensions.Localization" Version="6.0.24" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+    <PackageReference Include="NETCore.MailKit" Version="2.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="X.PagedList" Version="8.4.3" />
+    <PackageReference Include="X.PagedList.Mvc.Core" Version="8.4.3" />
+  </ItemGroup>
+
+</Project>

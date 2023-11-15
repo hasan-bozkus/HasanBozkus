@@ -1,0 +1,34 @@
+E:\HaseneBlog\BusinnesLayer\bin\Release\net6.0\BusinnesLayer.deps.json
+E:\HaseneBlog\BusinnesLayer\bin\Release\net6.0\BusinnesLayer.dll
+E:\HaseneBlog\BusinnesLayer\bin\Release\net6.0\BusinnesLayer.pdb
+E:\HaseneBlog\BusinnesLayer\bin\Release\net6.0\DataAccsessLayer.dll
+E:\HaseneBlog\BusinnesLayer\bin\Release\net6.0\EntityLayer.dll
+E:\HaseneBlog\BusinnesLayer\bin\Release\net6.0\DataAccsessLayer.pdb
+E:\HaseneBlog\BusinnesLayer\bin\Release\net6.0\EntityLayer.pdb
+E:\HaseneBlog\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.csproj.AssemblyReference.cache
+E:\HaseneBlog\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\HaseneBlog\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.AssemblyInfoInputs.cache
+E:\HaseneBlog\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.AssemblyInfo.cs
+E:\HaseneBlog\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.csproj.CoreCompileInputs.cache
+E:\HaseneBlog\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.csproj.CopyComplete
+E:\HaseneBlog\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.dll
+E:\HaseneBlog\BusinnesLayer\obj\Release\net6.0\refint\BusinnesLayer.dll
+E:\HaseneBlog\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.pdb
+E:\HaseneBlog\BusinnesLayer\obj\Release\net6.0\ref\BusinnesLayer.dll
+E:\Hasan BOZKUŞ\BusinnesLayer\bin\Release\net6.0\BusinnesLayer.deps.json
+E:\Hasan BOZKUŞ\BusinnesLayer\bin\Release\net6.0\BusinnesLayer.dll
+E:\Hasan BOZKUŞ\BusinnesLayer\bin\Release\net6.0\BusinnesLayer.pdb
+E:\Hasan BOZKUŞ\BusinnesLayer\bin\Release\net6.0\DataAccsessLayer.dll
+E:\Hasan BOZKUŞ\BusinnesLayer\bin\Release\net6.0\EntityLayer.dll
+E:\Hasan BOZKUŞ\BusinnesLayer\bin\Release\net6.0\DataAccsessLayer.pdb
+E:\Hasan BOZKUŞ\BusinnesLayer\bin\Release\net6.0\EntityLayer.pdb
+E:\Hasan BOZKUŞ\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.csproj.AssemblyReference.cache
+E:\Hasan BOZKUŞ\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hasan BOZKUŞ\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.AssemblyInfoInputs.cache
+E:\Hasan BOZKUŞ\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.AssemblyInfo.cs
+E:\Hasan BOZKUŞ\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.csproj.CoreCompileInputs.cache
+E:\Hasan BOZKUŞ\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.csproj.CopyComplete
+E:\Hasan BOZKUŞ\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.dll
+E:\Hasan BOZKUŞ\BusinnesLayer\obj\Release\net6.0\refint\BusinnesLayer.dll
+E:\Hasan BOZKUŞ\BusinnesLayer\obj\Release\net6.0\BusinnesLayer.pdb
+E:\Hasan BOZKUŞ\BusinnesLayer\obj\Release\net6.0\ref\BusinnesLayer.dll

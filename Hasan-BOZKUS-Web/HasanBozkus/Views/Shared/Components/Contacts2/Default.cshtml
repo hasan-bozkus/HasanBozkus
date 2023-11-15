@@ -1,0 +1,56 @@
+﻿@model List<EntityLayer.Concrete.iletisimadresleri>
+
+<ul class="social_list1 mt-3">
+    @*<li>
+
+        <img src="~/writer/assets/images/faces-clipart/pic-1.png" alt="image">
+        <span class="availability-status online"> Misafir </span>
+    </li>*@
+    @foreach (var item in Model)
+    {
+        if (item.Discord != null)
+        {
+            <li>
+                <a href="@item.Discord" class="facebook1 mx-2">
+                    <i class="fab fa-discord"></i>
+                </a>
+            </li>
+        }
+
+        if (item.Linkedin != null)
+        {
+            <li>
+                <a href="@item.Linkedin" class="twitter2">
+                    <i class="fab fa-linkedin"></i>
+                </a>
+            </li>
+        }
+
+        if (item.Github != null)
+        {
+            <li>
+                <a href="@item.Github" class="github mx-2">
+                    <i class="fab fa-github"></i>
+                </a>
+            </li>
+        }
+
+        if (item.Youtube != null)
+        {
+            <li>
+                <a href="@item.Youtube" class="pin">
+                    <i class="fab fa-youtube"></i>
+                </a>
+            </li>
+        }
+
+        if (item.eposta != null)
+        {
+            <li>
+                <a href="mailto:@item.eposta" class="google1">
+                    <i class="fab fa-google"></i>
+                </a>
+            </li>
+        }
+    }
+</ul>

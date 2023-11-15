@@ -1,0 +1,1 @@
+﻿optionsBuilder.UseSqlServer(@"server=(localdb)\hasan; database=HaseneBlog; integrated security=true;");

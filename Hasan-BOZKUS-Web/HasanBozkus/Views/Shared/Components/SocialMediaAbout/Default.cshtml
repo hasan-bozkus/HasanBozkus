@@ -1,0 +1,118 @@
+﻿@model List<EntityLayer.Concrete.iletisimadresleri>
+<div class="tech-btm widget_social">
+    <h4>@await Component.InvokeAsync("PageOurSocialMediaAccounts")</h4>
+    <ul>
+        @foreach (var item in Model)
+        {
+            if (@item.eposta != null)
+            {
+                <li>
+                    <a class="google1" href="mailto:@item.eposta">
+                        <i class="fab fa-google"></i>
+                        <span class="count">317K</span> @await Component.InvokeAsync("EmailPartialForsosyalmedya")
+                    </a>
+                </li>
+            }
+
+            if (@item.phonenumber != null)
+            {
+                <li>
+                    <a class="whats" href="https://wa.me/@item.phonenumber" rel="nofollow" target="_blank">
+                        <i class="fab fa-whatsapp"></i> @*href="https://wa.me/905550534577"*@
+                        <span class="count">218k</span> Whatsapp
+                    </a>
+                </li>
+            }
+
+            if (@item.Youtube != null)
+            {
+                <li>
+                    <a class="pin" href="@item.Youtube">
+                        <i class="fab fa-youtube"></i>
+
+                        <span class="count">215k</span> Youtube
+                    </a>
+                </li>
+            }
+
+            if (@item.Github != null)
+            {
+                <li>
+                    <a class="github" href="@item.Github">
+                        <i class="fab fa-github"></i>
+                        <span class="count">190k</span> Github
+                    </a>
+                </li>
+            }
+
+            if (@item.Instagram != null)
+            {
+                <li>
+                    <a class="dribble3" href="@item.Instagram">
+                        <i class="fab fa-instagram"></i>
+                        <span class="count">190k</span> Instagram
+                    </a>
+                </li>
+            }
+
+            if (@item.Facebook != null)
+            {
+                <li>
+                    <a class="facebook" href="@item.Facebook">
+                        <i class="fab fa-facebook-f"></i>
+                        <span class="count">218k</span> Facebook
+                    </a>
+                </li>
+            }
+
+            if (@item.Tweteer != null)
+            {
+                <li>
+                    <a class="twitter" href="@item.Tweteer">
+                        <i class="fab fa-twitter"></i>
+                        <span class="count">317K</span> Twitter
+                    </a>
+                </li>
+            }
+
+            if (@item.Discord != null)
+            {
+                <li>
+                    <a class="discord" href="@item.Discord">
+                        <i class="fab fa-discord"></i>
+                        <span class="count">190k</span> Discord
+                    </a>
+                </li>
+            }
+
+            if (@item.Linkedin != null)
+            {
+                <li>
+                    <a class="linked" href="@item.Linkedin">
+                        <i class="fab fa-linkedin"></i>
+                        <span class="count">190k</span> Linkedin
+                    </a>
+                </li>
+            }
+
+            if (@item.Twitch != null)
+            {
+                <li>
+                    <a class="twitch" href="@item.Twitch">
+                        <i class="fab fa-twitch"></i>
+                        <span class="count">190k</span> Twitch
+                    </a>
+                </li>
+            }
+
+           @* if (@item.Reddit != null)
+            {
+                <li>
+                    <a class="google1" href="@item.Reddit">
+                        <i class="fab fa-reddit"></i>
+                        <span class="count">190k</span> Reddit Hesabı
+                    </a>
+                </li>
+            }*@
+        }
+    </ul>

@@ -1,0 +1,196 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Blog>
+@{
+    ViewData["Title"] = "BlogDetails";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+@section scripts{
+
+
+<link href="~/ckeditor/plugins/codesnippet/lib/highlight/styles/obsidian.css" rel="stylesheet" />
+<script src="~/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js"></script>
+<script src="~/ckeditor/ckeditor.js"></script>
+<script>
+        hljs.initHighlightingOnLoad();
+</script>
+}
+<style>
+
+   pre {
+        background-color: #282B2E;
+        border: 1px solid #ddd;
+        border-left: 3px solid green;
+        color: black;
+        page-break-inside: avoid;
+        font-family: monospace;
+        font-size: 15px;
+        line-height: 1.6em;
+        margin-bottom: 1.6em;
+        max-width: 100%;
+        overflow: auto;
+        padding: 1em 1.5em;
+        display: block;
+        word-wrap: break-word;
+
+    }
+
+       /* pre::-webkit-scrollbar {
+            height: 8px;
+            width: 10px;
+            background-color: #eaeaea;
+            border-left: 1px solid #f1f1f1;
+        }
+
+        pre::-webkit-scrollbar-thumb {
+            background-color: #a0a0a0;
+            border-radius: 15px;
+        }
+
+            pre::-webkit-scrollbar-thumb:hover {
+                background-color: #7d7d7d;
+            }*/
+</style>
+
+<!DOCTYPE html>
+<html lang="tr">
+
+<body>
+
+    <!--//banner-->
+    <section class="banner-bottom">
+        <!--/blog-->
+        <div class="container">
+            <div class="row">
+                <!--left-->
+                <div class="col-lg-8 left-blog-info-w3layouts-agileits text-left">
+                    @foreach (var item in Model)
+                    {
+                        <div class="blog-grid-top">
+                            <div class="b-grid-top">
+                                <div class="blog_info_left_grid">
+                                    <a href="#">
+                                        <img src="@item.Image" class="image-fluid" style="width:100%;" alt="">
+                                    </a>
+                                </div>
+                                <div class="blog-info-middle">
+                                    <ul>
+                                        <li>
+                                            <a href="#">
+                                                <i class="far fa-calendar-alt"></i> @(((DateTime)item.BlogCreateDate).ToString("dd-MMM-yyyy"))
+                                            </a>
+                                        </li>
+                                        @*<li class="mx-2">
+                                            <a href="#">
+                                                <i class="far fa-thumbs-up"></i> 0 Beğeni
+                                            </a>
+                                        </li>*@
+                                        <li>
+                                            <a href="#">
+                                                <i class="far fa-comment"></i> @ViewBag.yorumsayısı @await Component.InvokeAsync("PageComment")
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            
+                            <h3>
+                                <a href="#">@item.BlogTitle</a>
+                            </h3>
+                            <p>
+                                @Html.Raw(item.BlogContent)
+                            </p>
+                            <a href="/Blog/Index/" class="btn btn-primary read-m">@await Component.InvokeAsync("PageBlogList")</a>
+                        </div>
+
+
+                    }
+
+                    @await Component.InvokeAsync("CommentListByBlog", new { id = ViewBag.i})
+
+                     @*@await Html.PartialAsync("~/Views/Comment/CommentListByBlog.cshtml")*@
+
+                    @await Html.PartialAsync("~/Views/Comment/PartialAddComment.cshtml")
+
+
+                </div>
+
+
+
+
+
+                <!--//left-->
+                <!--right-->
+                <aside class="col-lg-4 agileits-w3ls-right-blog-con text-right">
+                    <div class="right-blog-info text-left">
+                        <div class="tech-btm">
+                            <img src="~/CoreBlogTema/images/banner1.jpg" class="img-fluid" alt="">
+                        </div>
+
+
+                        <h4>@await Component.InvokeAsync("SubscribeEMail")</h4>
+                        @await Html.PartialAsync("~/Views/NewsLetter/AddMail.cshtml")
+
+                        @await Component.InvokeAsync("CategoryList")
+
+                        @await Component.InvokeAsync("WriterLastBlog")
+
+                        <div class="tech-btm widget_social">
+                            <h4> @await Component.InvokeAsync("PageContactOurAuthorPartial") </h4>
+                            @await Component.InvokeAsync("sosyalmedya", new { id = ViewBag.s })
+                        </div>
+
+
+
+
+                        @*<div class="single-gd my-5 tech-btm">
+                        @foreach(var item in Model)
+                        {
+                        <h4>Our Progress</h4>
+                        <div class="progress">
+                        <a class="twitter" href="#">
+                        <i class="fab fa-twitter"></i>
+                        <span class="count">317K</span> @item.Writers.Email
+                        </a>
+                        </div>
+                        <div class="progress">
+                        <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0"
+                        aria-valuemax="100"></div>
+                        </div>
+                        <div class="progress">
+                        <div class="progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+                        aria-valuemax="100"></div>
+                        </div>
+                        <div class="progress">
+                        <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
+                        aria-valuemax="100"></div>
+                        </div>
+                        <div class="progress">
+                        <div class="progress-bar progress-bar-striped bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0"
+                        aria-valuemax="100"></div>
+                        </div>
+                        }
+                        </div>*@
+
+                        <div class="single-gd tech-btm">
+                            <h4>@await Component.InvokeAsync("LastAddedPost")</h4>
+                            @await Component.InvokeAsync("RecentPost")
+                           @* <div class="blog-grid-left">
+                                <a href="single.html">
+                                    <img src="~/CoreBlogTema/images/b1.jpg" class="card-img-top img-fluid" alt="">
+                                </a>
+                            </div>*@
+                        </div>
+                        <div class="single-gd tech-btm">
+
+                            <a href="https://www.hosting.com.tr/aff.php?aff=815"><img src="~/affiliate-hosting/336x280.png" /> </a>
+                        </div>
+                    </div>
+
+                </aside>
+                <!--//right-->
+            </div>
+        </div>
+    </section>
+
+</body>
+
+</html>

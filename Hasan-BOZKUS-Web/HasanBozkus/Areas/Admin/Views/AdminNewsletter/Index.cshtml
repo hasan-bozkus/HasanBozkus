@@ -1,0 +1,33 @@
+﻿@using EntityLayer.Concrete
+@model List<NewsLetter>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Haber Bültenine Kayıt Olanlar</h1>
+<br />
+<a href="/Admin/AdminNewsLetter/EMailPost/" class="btn btn-warning">Toplu Mesaj Gönder</a>
+
+<br />
+
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>E-Posta</th>
+        <th>Sil</th>
+        <th>Mesaj Gönder</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.MailId </td>
+            <td>@item.Mail </td>
+            <td><a href="/Admin/AdminNewsLetter/DeleteMail/@item.MailId" class="btn btn-outline-danger" onclick="return confirm('Silmek istediğinize emin misisniz?')">Sil</a></td>
+            <td><a href="mailto:@item.Mail" class="btn btn-warning">Mesaj Gönder</a></td>
+        </tr>
+    }
+</table>
+
+<br />

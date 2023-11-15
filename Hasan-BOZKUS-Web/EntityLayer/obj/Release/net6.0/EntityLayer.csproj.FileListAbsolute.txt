@@ -1,0 +1,24 @@
+E:\HaseneBlog\EntityLayer\bin\Release\net6.0\EntityLayer.deps.json
+E:\HaseneBlog\EntityLayer\bin\Release\net6.0\EntityLayer.dll
+E:\HaseneBlog\EntityLayer\bin\Release\net6.0\EntityLayer.pdb
+E:\HaseneBlog\EntityLayer\obj\Release\net6.0\EntityLayer.csproj.AssemblyReference.cache
+E:\HaseneBlog\EntityLayer\obj\Release\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\HaseneBlog\EntityLayer\obj\Release\net6.0\EntityLayer.AssemblyInfoInputs.cache
+E:\HaseneBlog\EntityLayer\obj\Release\net6.0\EntityLayer.AssemblyInfo.cs
+E:\HaseneBlog\EntityLayer\obj\Release\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+E:\HaseneBlog\EntityLayer\obj\Release\net6.0\EntityLayer.dll
+E:\HaseneBlog\EntityLayer\obj\Release\net6.0\refint\EntityLayer.dll
+E:\HaseneBlog\EntityLayer\obj\Release\net6.0\EntityLayer.pdb
+E:\HaseneBlog\EntityLayer\obj\Release\net6.0\ref\EntityLayer.dll
+E:\Hasan BOZKUŞ\EntityLayer\bin\Release\net6.0\EntityLayer.deps.json
+E:\Hasan BOZKUŞ\EntityLayer\bin\Release\net6.0\EntityLayer.dll
+E:\Hasan BOZKUŞ\EntityLayer\bin\Release\net6.0\EntityLayer.pdb
+E:\Hasan BOZKUŞ\EntityLayer\obj\Release\net6.0\EntityLayer.csproj.AssemblyReference.cache
+E:\Hasan BOZKUŞ\EntityLayer\obj\Release\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hasan BOZKUŞ\EntityLayer\obj\Release\net6.0\EntityLayer.AssemblyInfoInputs.cache
+E:\Hasan BOZKUŞ\EntityLayer\obj\Release\net6.0\EntityLayer.AssemblyInfo.cs
+E:\Hasan BOZKUŞ\EntityLayer\obj\Release\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+E:\Hasan BOZKUŞ\EntityLayer\obj\Release\net6.0\EntityLayer.dll
+E:\Hasan BOZKUŞ\EntityLayer\obj\Release\net6.0\refint\EntityLayer.dll
+E:\Hasan BOZKUŞ\EntityLayer\obj\Release\net6.0\EntityLayer.pdb
+E:\Hasan BOZKUŞ\EntityLayer\obj\Release\net6.0\ref\EntityLayer.dll

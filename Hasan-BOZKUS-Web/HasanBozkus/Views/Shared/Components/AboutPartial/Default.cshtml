@@ -1,0 +1,15 @@
+﻿@model List<EntityLayer.Concrete.About>
+
+<div class="col-lg-4 footer-grid-agileits-w3ls text-left">
+    <h3>@ViewBag.PageAbout</h3>
+    @foreach (var item in Model)
+    {
+        <p>
+            @item.AboutDetails1.Substring(0, item.AboutDetails1.Substring(0, 120).LastIndexOf(" "))
+        </p>
+    }
+    <div class="read">
+        <a href="/About/AboutIndex/" class="btn btn-primary read-m">@ViewBag.InPageReadMore</a>
+    </div>
+</div>
+

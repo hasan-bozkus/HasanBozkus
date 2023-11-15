@@ -1,0 +1,17 @@
+E:\Tekno Yazılım\BusinnesLayer\bin\Release\net5.0\BusinnesLayer.deps.json
+E:\Tekno Yazılım\BusinnesLayer\bin\Release\net5.0\BusinnesLayer.dll
+E:\Tekno Yazılım\BusinnesLayer\bin\Release\net5.0\ref\BusinnesLayer.dll
+E:\Tekno Yazılım\BusinnesLayer\bin\Release\net5.0\BusinnesLayer.pdb
+E:\Tekno Yazılım\BusinnesLayer\bin\Release\net5.0\DataAccsessLayer.dll
+E:\Tekno Yazılım\BusinnesLayer\bin\Release\net5.0\EntityLayer.dll
+E:\Tekno Yazılım\BusinnesLayer\bin\Release\net5.0\DataAccsessLayer.pdb
+E:\Tekno Yazılım\BusinnesLayer\bin\Release\net5.0\EntityLayer.pdb
+E:\Tekno Yazılım\BusinnesLayer\obj\Release\net5.0\BusinnesLayer.csprojAssemblyReference.cache
+E:\Tekno Yazılım\BusinnesLayer\obj\Release\net5.0\BusinnesLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tekno Yazılım\BusinnesLayer\obj\Release\net5.0\BusinnesLayer.AssemblyInfoInputs.cache
+E:\Tekno Yazılım\BusinnesLayer\obj\Release\net5.0\BusinnesLayer.AssemblyInfo.cs
+E:\Tekno Yazılım\BusinnesLayer\obj\Release\net5.0\BusinnesLayer.csproj.CoreCompileInputs.cache
+E:\Tekno Yazılım\BusinnesLayer\obj\Release\net5.0\BusinnesLayer.csproj.CopyComplete
+E:\Tekno Yazılım\BusinnesLayer\obj\Release\net5.0\BusinnesLayer.dll
+E:\Tekno Yazılım\BusinnesLayer\obj\Release\net5.0\ref\BusinnesLayer.dll
+E:\Tekno Yazılım\BusinnesLayer\obj\Release\net5.0\BusinnesLayer.pdb

@@ -1,0 +1,46 @@
+E:\HaseneBlog\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+E:\HaseneBlog\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+E:\HaseneBlog\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+E:\HaseneBlog\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.AssemblyReference.cache
+E:\HaseneBlog\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\HaseneBlog\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+E:\HaseneBlog\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+E:\HaseneBlog\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+E:\HaseneBlog\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+E:\HaseneBlog\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
+E:\HaseneBlog\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+E:\HaseneBlog\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+E:\Hasan BOZKUŞ (kurtarılması gereken)\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+E:\Hasan BOZKUŞ (kurtarılması gereken)\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.AssemblyReference.cache
+E:\Hasan BOZKUŞ (kurtarılması gereken)\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hasan BOZKUŞ (kurtarılması gereken)\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+E:\Hasan BOZKUŞ (kurtarılması gereken)\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+E:\Hasan BOZKUŞ (kurtarılması gereken)\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+E:\Hasan BOZKUŞ (kurtarılması gereken)\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+E:\Hasan BOZKUŞ (kurtarılması gereken)\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll
+E:\Hasan BOZKUŞ\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+E:\Hasan BOZKUŞ\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+E:\Hasan BOZKUŞ\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+E:\Hasan BOZKUŞ\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hasan BOZKUŞ\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+E:\Hasan BOZKUŞ\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+E:\Hasan BOZKUŞ\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+E:\Hasan BOZKUŞ\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+E:\Hasan BOZKUŞ\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
+E:\Hasan BOZKUŞ\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+E:\Hasan BOZKUŞ\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll

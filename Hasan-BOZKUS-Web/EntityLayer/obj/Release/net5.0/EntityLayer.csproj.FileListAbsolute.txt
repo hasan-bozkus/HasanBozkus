@@ -1,0 +1,11 @@
+E:\Tekno Yazılım\EntityLayer\bin\Release\net5.0\EntityLayer.deps.json
+E:\Tekno Yazılım\EntityLayer\bin\Release\net5.0\EntityLayer.dll
+E:\Tekno Yazılım\EntityLayer\bin\Release\net5.0\ref\EntityLayer.dll
+E:\Tekno Yazılım\EntityLayer\bin\Release\net5.0\EntityLayer.pdb
+E:\Tekno Yazılım\EntityLayer\obj\Release\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tekno Yazılım\EntityLayer\obj\Release\net5.0\EntityLayer.AssemblyInfoInputs.cache
+E:\Tekno Yazılım\EntityLayer\obj\Release\net5.0\EntityLayer.AssemblyInfo.cs
+E:\Tekno Yazılım\EntityLayer\obj\Release\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+E:\Tekno Yazılım\EntityLayer\obj\Release\net5.0\EntityLayer.dll
+E:\Tekno Yazılım\EntityLayer\obj\Release\net5.0\ref\EntityLayer.dll
+E:\Tekno Yazılım\EntityLayer\obj\Release\net5.0\EntityLayer.pdb

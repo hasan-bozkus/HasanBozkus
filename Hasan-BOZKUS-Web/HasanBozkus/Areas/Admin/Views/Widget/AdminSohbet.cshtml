@@ -1,0 +1,138 @@
+﻿@model List<EntityLayer.Concrete.Catch>
+
+@{
+    ViewData["Title"] = "AdminSohbet";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@{
+    string sure = "";
+    DateTime now = DateTime.Now;
+}
+
+@section script{
+    <script src="~/signalr/signalr.min.js"></script>
+    <script src="~/signalr/jquery.min.js"></script>
+
+    <script>
+        $.(document).ready(() => {
+
+            const connection = new signalR.HubConnectionBuilder()
+                .withUrl("https://localhost:7160//adminandclientschathub")
+                .withAutomaticReconnect([1000, 1000, 2000, 3000, 5000, 10000])
+                .build();
+
+            async function start() {
+                try {
+                    await connection.start();
+                }
+                catch (error) {
+                    setTimeout(() => start(), 2000);
+                }
+            }
+            start();
+
+            connection.on("userJoined", connectionId => {
+                //durum.html(`${connectionId} bağlandı.`);
+                //durum.css("background-color", "green");
+                //animation();
+            });
+
+            connection.on("userLeaved", connectionId => {
+                //durum.html(`${connectionId} ayrıldı.`);
+                //durum.css("background-color", "red");
+                //animation();
+
+            });
+
+            $("#BtnGonder").click(() => {
+                let message = $("#txtMessage").val();
+                connection.invoke("SendMessageAsync", message).catch(error => console.log(`Mesaj gönderilirken hata oluştu. ${error}`));
+            });
+
+        });
+    </script>
+
+    }
+
+<div class="ibox ">
+    <div class="ibox-content">
+
+        <div class="ibox-content">
+
+
+
+            @foreach (var item in Model)
+            {
+                TimeSpan zaman = now.Subtract(item.CatchDate);
+
+                if (zaman.Days == 0)
+                {
+                    if (zaman.Minutes == 0 && zaman.Hours == 0)
+                    {
+                        sure = " Şimdi";
+                    }
+                    else if (zaman.Minutes > 0 && zaman.Hours == 0)
+                    {
+                        sure = zaman.Minutes + " Dakika önce";
+                    }
+                    else
+                    {
+                        sure = zaman.Hours + " Saat " + zaman.Minutes + " dakika önce";
+                    }
+                }
+                else
+                {
+                    if (zaman.Hours == 0)
+                    {
+                        sure = zaman.Days + " Gün önce";
+                    }
+                    else
+                    {
+                        sure = zaman.Days + " Gün" + zaman.Hours + "saat önce";
+                    }
+                }
+
+
+
+
+
+                <div>
+                    <div class="chat-activity-list">
+
+                        <div class="chat-element">
+                            <a href="#" class="float-left">
+                                <img alt="image" style="width:150px;" class="rounded-circle" src="@ViewBag.imageuserl">
+                            </a>
+                            <div class="media-body ">
+                                <small class="float-right text-navy">@sure gönderildi</small>
+                                @* <strong style="width:150px;">@item.SenderCatchUser.ImageUrl</strong>*@
+                                <p class="m-b-xs" id="txtMessage">
+                                    @*@item.CatchDetails*@
+                                </p>
+                                <small class="text-muted"> @(((DateTime)item.CatchDate).ToString("dd-MMM-yyyy"))</small>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+            @*
+            @await Component.InvokeAsync("Sohbet")*@
+
+            @* @await Html.PartialAsync("~/Areas/Admin/Views/Widget/AdminCatchPartial.cshtml")*@
+
+            <div class="chat-form">
+                <form role="form">
+                    <div class="form-group">
+                        <textarea class="form-control" placeholder="Message"></textarea>
+                    </div>
+                    <div class="text-right">
+                        <button type="submit" id="BtnGonder" class="btn btn-sm btn-primary m-t-n-xs"><strong>Gönder</strong></button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+

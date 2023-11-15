@@ -1,0 +1,271 @@
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\appsettings.Development.json
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\appsettings.json
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.exe
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.deps.json
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.runtimeconfig.json
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.pdb
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Humanizer.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\HaseneBlog\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.csproj.AssemblyReference.cache
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.AssemblyInfoInputs.cache
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.AssemblyInfo.cs
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.csproj.CoreCompileInputs.cache
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.MvcApplicationPartsAssemblyInfo.cs
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.MvcApplicationPartsAssemblyInfo.cache
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.TeknoYazılımApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.build.TeknoYazılımApi.props
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TeknoYazılımApi.props
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TeknoYazılımApi.props
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\scopedcss\bundle\TeknoYazılımApi.styles.css
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.csproj.CopyComplete
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.dll
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\refint\TeknoYazılımApi.dll
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.pdb
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.genruntimeconfig.cache
+E:\HaseneBlog\TeknoYazılımApi\obj\Debug\net6.0\ref\TeknoYazılımApi.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\appsettings.json
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.exe
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.deps.json
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.runtimeconfig.json
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.pdb
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Humanizer.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.csproj.AssemblyReference.cache
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.AssemblyInfoInputs.cache
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.AssemblyInfo.cs
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.csproj.CoreCompileInputs.cache
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.TeknoYazılımApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.build.TeknoYazılımApi.props
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TeknoYazılımApi.props
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TeknoYazılımApi.props
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\scopedcss\bundle\TeknoYazılımApi.styles.css
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.csproj.CopyComplete
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\refint\TeknoYazılımApi.dll
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.pdb
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.genruntimeconfig.cache
+E:\Hasan BOZKUŞ (kurtarılması gereken)\TeknoYazılımApi\obj\Debug\net6.0\ref\TeknoYazılımApi.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\appsettings.json
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.exe
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.deps.json
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.runtimeconfig.json
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.pdb
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Humanizer.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.csproj.AssemblyReference.cache
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.AssemblyInfoInputs.cache
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.AssemblyInfo.cs
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.csproj.CoreCompileInputs.cache
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.TeknoYazılımApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.build.TeknoYazılımApi.props
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TeknoYazılımApi.props
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TeknoYazılımApi.props
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\scopedcss\bundle\TeknoYazılımApi.styles.css
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.csproj.CopyComplete
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\refint\TeknoYazılımApi.dll
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.pdb
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.genruntimeconfig.cache
+E:\Hasan BOZKUŞ\TeknoYazılımApi\obj\Debug\net6.0\ref\TeknoYazılımApi.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\appsettings.json
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.exe
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.deps.json
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.runtimeconfig.json
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\TeknoYazılımApi.pdb
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.csproj.AssemblyReference.cache
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.AssemblyInfoInputs.cache
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.AssemblyInfo.cs
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.csproj.CoreCompileInputs.cache
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.TeknoYazılımApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.build.TeknoYazılımApi.props
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TeknoYazılımApi.props
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TeknoYazılımApi.props
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\scopedcss\bundle\TeknoYazılımApi.styles.css
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.csproj.CopyComplete
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\refint\TeknoYazılımApi.dll
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.pdb
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\TeknoYazılımApi.genruntimeconfig.cache
+C:\Users\HASAN\Documents\GitHub\Hasan-BOZKUS-Web\TeknoYazılımApi\obj\Debug\net6.0\ref\TeknoYazılımApi.dll

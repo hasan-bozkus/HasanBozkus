@@ -1,0 +1,57 @@
+﻿@model List<EntityLayer.Concrete.iletisimadresleri>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        if (item.Linkedin != null)
+        {
+            <li class="mx-3">
+                <a class="facebook" href="@item.Linkedin">
+                    <i class="fab fa-linkedin"></i>
+                    <span>Linkedin</span>
+                </a>
+            </li>
+        }
+
+        if (item.Github != null)
+        {
+            <li>
+                <a class="facebook" href="@item.Github">
+                    <i class="fab fa-github"></i>
+                    <span>Github</span>
+                </a>
+            </li>
+        }
+
+        if (item.Youtube != null)
+        {
+            <li class="mx-3">
+                <a class="facebook" href="@item.Youtube">
+                    <i class="fab fa-youtube"></i>
+                    <span>Youtube</span>
+                </a>
+            </li>
+        }
+
+        if (item.eposta != null)
+        {
+            
+            <li class="mx-3">
+                <a class="facebook" href="mailto:@item.eposta">
+                    <i class="fab fa-google"></i>
+                    <span>Google</span>
+                </a>
+            </li>
+        }
+
+        if (item.Discord != null)
+        {
+            <li>
+                <a class="facebook" href="@item.Discord">
+                    <i class="fab fa-discord"></i>
+                    <span>Discord</span>
+                </a>
+            </li>
+        }
+    }
+</ul>

@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="inPage.Address" xml:space="preserve">
+    <value>Адрес</value>
+  </data>
+  <data name="inPage.Algorithm" xml:space="preserve">
+    <value>алгоритм</value>
+  </data>
+  <data name="inPage.Categories" xml:space="preserve">
+    <value>категории</value>
+  </data>
+  <data name="inPage.Comments" xml:space="preserve">
+    <value>Комментарии</value>
+  </data>
+  <data name="inPage.EMailAddress" xml:space="preserve">
+    <value>Адрес электронной почты</value>
+  </data>
+  <data name="inPage.EnterTitle" xml:space="preserve">
+    <value>Введите название</value>
+  </data>
+  <data name="inPage.EnterYourName" xml:space="preserve">
+    <value>Введите ваше имя</value>
+  </data>
+  <data name="inPage.LastAddedPost" xml:space="preserve">
+    <value>Последнее добавленное сообщение</value>
+  </data>
+  <data name="inPage.More" xml:space="preserve">
+    <value>Более</value>
+  </data>
+  <data name="inPage.Next" xml:space="preserve">
+    <value>Следующий</value>
+  </data>
+  <data name="inPage.NoCommentsMade" xml:space="preserve">
+    <value>Комментариев нет. Напиши комментарий первым</value>
+  </data>
+  <data name="inPage.OurBlogs" xml:space="preserve">
+    <value>Наши блоги</value>
+  </data>
+  <data name="inPage.Prev" xml:space="preserve">
+    <value>Бывший</value>
+  </data>
+  <data name="inPage.ReadMore" xml:space="preserve">
+    <value>Читать далее</value>
+  </data>
+  <data name="inPage.SoftwareBasics" xml:space="preserve">
+    <value>Основы программного обеспечения</value>
+  </data>
+  <data name="inPage.SoftwareLanguages" xml:space="preserve">
+    <value>Языки программного обеспечения</value>
+  </data>
+  <data name="inPage.Subject" xml:space="preserve">
+    <value>Предмет</value>
+  </data>
+  <data name="inPage.Submit" xml:space="preserve">
+    <value>Отправлять</value>
+  </data>
+  <data name="inPage.Subscribe" xml:space="preserve">
+    <value>Подписаться</value>
+  </data>
+  <data name="inPage.SubscribeEMail" xml:space="preserve">
+    <value>Подпишитесь на рассылку новостей по электронной почте</value>
+  </data>
+  <data name="inPage.TechnologySoftwareOtherBlogs" xml:space="preserve">
+    <value>Технологии, Программное обеспечение другие блоги...</value>
+  </data>
+  <data name="inPage.Telephone" xml:space="preserve">
+    <value>телефон</value>
+  </data>
+  <data name="inPage.YourComment" xml:space="preserve">
+    <value>Ваш комментарий...</value>
+  </data>
+  <data name="inPage.YourMessage" xml:space="preserve">
+    <value>Ваше сообщение</value>
+  </data>
+  <data name="inPage.YourName" xml:space="preserve">
+    <value>Ваше имя</value>
+  </data>
+  <data name="page.About" xml:space="preserve">
+    <value>о нас</value>
+  </data>
+  <data name="page.AllRightsReserved" xml:space="preserve">
+    <value>Все права защищены</value>
+  </data>
+  <data name="page.Blog" xml:space="preserve">
+    <value>блог</value>
+  </data>
+  <data name="page.BlogList" xml:space="preserve">
+    <value>Список блогов</value>
+  </data>
+  <data name="page.Blogs" xml:space="preserve">
+    <value>блоги</value>
+  </data>
+  <data name="page.Comment" xml:space="preserve">
+    <value>Комментарий</value>
+  </data>
+  <data name="page.Communication" xml:space="preserve">
+    <value>Коммуникация</value>
+  </data>
+  <data name="page.ContactOurAuthor" xml:space="preserve">
+    <value>Свяжитесь с нашим автором</value>
+  </data>
+  <data name="page.ContactUs" xml:space="preserve">
+    <value>Связаться с нами</value>
+  </data>
+  <data name="page.Email" xml:space="preserve">
+    <value>Электронная почта</value>
+  </data>
+  <data name="page.Home" xml:space="preserve">
+    <value>Домашняя страница</value>
+  </data>
+  <data name="page.LatestPosts" xml:space="preserve">
+    <value>Последние посты</value>
+  </data>
+  <data name="page.OurSocialMediaAccounts" xml:space="preserve">
+    <value>Наши аккаунты в социальных сетях</value>
+  </data>
+  <data name="page.PinnedBlogs" xml:space="preserve">
+    <value>Закрепленные блоги</value>
+  </data>
+  <data name="page.Search" xml:space="preserve">
+    <value>Искать слово...</value>
+  </data>
+  <data name="page.ShareYourThoughtsWithUs" xml:space="preserve">
+    <value>Düşüncelerinizi Bizimle Paylaşın</value>
+  </data>
+  <data name="page.WhoAreWeOurMissionVision" xml:space="preserve">
+    <value>Поделитесь своими мыслями с нами</value>
+  </data>
+</root>

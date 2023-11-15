@@ -1,0 +1,76 @@
+@*ya partial view yada Componenet edilecek
+              <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <td><h3>Sohbet Konusu</h3></td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <div class="nav-profile-image">
+                                    <img src="#" alt="profile">
+                                    <span class="login-status online"></span>
+                                    <!--change to offline or busy as needed-->
+                                
+                                 sohbeti açanýn kullanýcý adý
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /><small>unvaný mesela</small>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>sohbetiaçýklamasý</th>
+
+                        </tr>
+                    </tbody>
+                </table>
+            </div>*@
+
+
+            @* <div>
+            <div class="chat-activity-list">
+
+            <div class="chat-element">
+            <a href="#" class="float-left">
+            <img alt="image" class="rounded-circle" src="~/inspinia-gh-pages/img/a2.jpg">
+            </a>
+            <div class="media-body ">
+            <small class="float-right text-navy">1m ago</small>
+            <strong>Mike Smith</strong>
+            <p class="m-b-xs">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+            </p>
+            <small class="text-muted">Today 4:21 pm - 12.06.2014</small>
+            </div>
+            </div>
+
+            <div class="chat-element right">
+            <a href="#" class="float-right">
+            <img alt="image" class="rounded-circle" src="~/inspinia-gh-pages/img/a4.jpg">
+            </a>
+            <div class="media-body text-right ">
+            <small class="float-left">5m ago</small>
+            <strong>John Smith</strong>
+            <p class="m-b-xs">
+            Lorem Ipsum is simply dummy text of the printing.
+            </p>
+            <small class="text-muted">Today 4:21 pm - 12.06.2014</small>
+            </div>
+            </div>
+
+            <div class="chat-element ">
+            <a href="#" class="float-left">
+            <img alt="image" class="rounded-circle" src="~/inspinia-gh-pages/img/a2.jpg">
+            </a>
+            <div class="media-body ">
+            <small class="float-right">2h ago</small>
+            <strong>Mike Smith</strong>
+            <p class="m-b-xs">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
+            </p>
+            <small class="text-muted">Today 4:21 pm - 12.06.2014</small>
+            </div>
+            </div>
+            </div>
+            </div>*@

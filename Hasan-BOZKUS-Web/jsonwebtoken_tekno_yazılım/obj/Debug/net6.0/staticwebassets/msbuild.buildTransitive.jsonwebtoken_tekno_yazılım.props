@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\jsonwebtoken_tekno_yazılım.props" />
+</Project>

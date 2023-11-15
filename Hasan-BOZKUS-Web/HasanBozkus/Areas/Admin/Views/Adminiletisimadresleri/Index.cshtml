@@ -1,0 +1,28 @@
+﻿@model IEnumerable<EntityLayer.Concrete.iletisimadresleri>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>İletişim Adresleri listesi</h1>
+
+<table class="table table-hover table-mail">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>İletişim Adı</th>
+            <th>Durum</th>
+        </tr>
+    </thead>
+    <tbody>
+      @foreach(var item in Model)
+      {
+            <tr class="unread">
+                 <th>@item.Id</th>
+                <td>@item.iletisimadi</td>
+                <td><a href="/Admin/Adminiletisimadresleri/EditİletisimAdresi/@item.Id">Düzenle</a></td>
+            </tr>
+      }
+    </tbody>
+</table>

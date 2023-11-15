@@ -1,0 +1,10 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Blog>
+
+@foreach (var item in Model)
+{
+    <div class="blog-grid-left">
+        <a href="/Blog/BlogReadAll/@item.BlogId">
+            <img src="@item.Image" class="card-img-top img-fluid" alt="">
+        </a>
+    </div>
+}

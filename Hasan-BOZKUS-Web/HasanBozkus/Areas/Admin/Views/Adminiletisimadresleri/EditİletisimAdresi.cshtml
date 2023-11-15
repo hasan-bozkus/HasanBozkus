@@ -1,0 +1,62 @@
+﻿@model EntityLayer.Concrete.iletisimadresleri
+
+@{
+    ViewData["Title"] = "EditİletisimAdresi";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Edit İletisim Adresi</h1>
+<form asp-action="EditİletisimAdresi" asp-controller="Adminiletisimadresleri" method="post">
+    @Html.Label("iletisim ID")
+    @Html.TextBoxFor(x => x.Id, new { @class = "form-control" })
+    <br /> 
+    @Html.Label("iletisim Adı")
+    @Html.TextBoxFor(x => x.iletisimadi, new { @class = "form-control" })
+    <br />
+    @Html.Label("Telefon Numarası")
+    @Html.TextBoxFor(x => x.phonenumber, new { @class = "form-control" })
+    <br />
+    @Html.Label("E-posta adresi Gmail olarak")
+    @Html.TextBoxFor(x => x.eposta, new { @class = "form-control" })
+    <br />
+    @Html.Label("Adres")
+    @Html.TextBoxFor(x => x.adress, new { @class = "form-control" })
+    <br />
+    @Html.Label("Youtube hesabı")
+    @Html.TextBoxFor(x => x.Youtube, new { @class = "form-control" })
+    <br />
+    @Html.Label("Github hesabı")
+    @Html.TextBoxFor(x => x.Github, new { @class = "form-control" })
+    <br />
+    @Html.Label("Linkedin hesabı")
+    @Html.TextBoxFor(x => x.Linkedin, new { @class = "form-control" })
+    <br />
+    @Html.Label("İnstegram hesabı")
+    @Html.TextBoxFor(x => x.Instagram, new { @class = "form-control" })
+    <br />
+    @Html.Label("Facebook hesabı")
+    @Html.TextBoxFor(x => x.Facebook, new { @class = "form-control" })
+    <br />
+    @Html.Label("Tweteer hesabı")
+    @Html.TextBoxFor(x => x.Tweteer, new { @class = "form-control" })
+    <br />
+    @Html.Label("Pinterest hesabı")
+    @Html.TextBoxFor(x => x.Pinterest, new { @class = "form-control" })
+    <br />
+    @Html.Label("Discord hesabı")
+    @Html.TextBoxFor(x => x.Discord, new { @class = "form-control" })
+    <br />
+    @Html.Label("Microsoft hesabı")
+    @Html.TextBoxFor(x => x.adress, new { @class = "form-control" })
+    <br />
+    @Html.Label("WeChat hesabı")
+    @Html.TextBoxFor(x => x.adress, new { @class = "form-control" })
+    <br />
+    @Html.Label("Twitch hesabı")
+    @Html.TextBoxFor(x => x.Twitch, new { @class = "form-control" })
+    <br />
+    @*@Html.Label("Reddit hesabı")
+    @Html.TextBoxFor(x => x.Reddit, new { @class = "form-control" })
+    <br />*@
+    <button class="btn btn-success">Kaydet</button>
+</form>

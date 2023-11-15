@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\jsonwebtoken_tekno_yazılım.props" />
+</Project>

@@ -1,0 +1,27 @@
+﻿
+@model IEnumerable<EntityLayer.Concrete.Comment>
+
+     @if (Model.Count() > 0)
+    {
+    <h3 class="text-primary">@await Component.InvokeAsync("InPageComments")</h3>
+    }
+    else
+    {
+        <h3 class="text-primary">@await Component.InvokeAsync("InPageNoCommentsMade")</h3>
+    }
+
+<div class="comment-top">
+    @foreach (var item in Model)
+    {
+        <div class="media">
+            <img src="~/writer/assets/images/faces-clipart/pic-1.png" alt="" class="img-fluid" />
+            <div class="media-body">
+                <h5 class="mt-0"> @item.Commenttitle</h5>
+                <div class="row"> <h6 class="p-1 pl-1"> <b> @item.CommentUserName :  </b> </h6>   <h6 class="p-1">    @item.CommentContent  </h6> </div>
+                
+            </div>
+           
+        </div>
+         <br />
+    }
+</div>

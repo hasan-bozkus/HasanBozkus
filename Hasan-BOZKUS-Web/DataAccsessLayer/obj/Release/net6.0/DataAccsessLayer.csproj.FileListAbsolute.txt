@@ -1,0 +1,34 @@
+E:\HaseneBlog\DataAccsessLayer\bin\Release\net6.0\DataAccsessLayer.deps.json
+E:\HaseneBlog\DataAccsessLayer\bin\Release\net6.0\DataAccsessLayer.runtimeconfig.json
+E:\HaseneBlog\DataAccsessLayer\bin\Release\net6.0\DataAccsessLayer.dll
+E:\HaseneBlog\DataAccsessLayer\bin\Release\net6.0\DataAccsessLayer.pdb
+E:\HaseneBlog\DataAccsessLayer\bin\Release\net6.0\EntityLayer.dll
+E:\HaseneBlog\DataAccsessLayer\bin\Release\net6.0\EntityLayer.pdb
+E:\HaseneBlog\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.csproj.AssemblyReference.cache
+E:\HaseneBlog\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\HaseneBlog\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.AssemblyInfoInputs.cache
+E:\HaseneBlog\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.AssemblyInfo.cs
+E:\HaseneBlog\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.csproj.CoreCompileInputs.cache
+E:\HaseneBlog\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.csproj.CopyComplete
+E:\HaseneBlog\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.dll
+E:\HaseneBlog\DataAccsessLayer\obj\Release\net6.0\refint\DataAccsessLayer.dll
+E:\HaseneBlog\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.pdb
+E:\HaseneBlog\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.genruntimeconfig.cache
+E:\HaseneBlog\DataAccsessLayer\obj\Release\net6.0\ref\DataAccsessLayer.dll
+E:\Hasan BOZKUŞ\DataAccsessLayer\bin\Release\net6.0\DataAccsessLayer.deps.json
+E:\Hasan BOZKUŞ\DataAccsessLayer\bin\Release\net6.0\DataAccsessLayer.runtimeconfig.json
+E:\Hasan BOZKUŞ\DataAccsessLayer\bin\Release\net6.0\DataAccsessLayer.dll
+E:\Hasan BOZKUŞ\DataAccsessLayer\bin\Release\net6.0\DataAccsessLayer.pdb
+E:\Hasan BOZKUŞ\DataAccsessLayer\bin\Release\net6.0\EntityLayer.dll
+E:\Hasan BOZKUŞ\DataAccsessLayer\bin\Release\net6.0\EntityLayer.pdb
+E:\Hasan BOZKUŞ\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.csproj.AssemblyReference.cache
+E:\Hasan BOZKUŞ\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hasan BOZKUŞ\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.AssemblyInfoInputs.cache
+E:\Hasan BOZKUŞ\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.AssemblyInfo.cs
+E:\Hasan BOZKUŞ\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.csproj.CoreCompileInputs.cache
+E:\Hasan BOZKUŞ\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.csproj.CopyComplete
+E:\Hasan BOZKUŞ\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.dll
+E:\Hasan BOZKUŞ\DataAccsessLayer\obj\Release\net6.0\refint\DataAccsessLayer.dll
+E:\Hasan BOZKUŞ\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.pdb
+E:\Hasan BOZKUŞ\DataAccsessLayer\obj\Release\net6.0\DataAccsessLayer.genruntimeconfig.cache
+E:\Hasan BOZKUŞ\DataAccsessLayer\obj\Release\net6.0\ref\DataAccsessLayer.dll
