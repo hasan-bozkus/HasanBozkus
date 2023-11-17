@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\TeknoYazılımApi\\TeknoYazılımApi.csproj": {}
+    "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\TeknoYazılımApi\\TeknoYazılımApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\TeknoYazılımApi\\TeknoYazılımApi.csproj": {
+    "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\TeknoYazılımApi\\TeknoYazılımApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\TeknoYazılımApi\\TeknoYazılımApi.csproj",
+        "projectUniqueName": "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\TeknoYazılımApi\\TeknoYazılımApi.csproj",
         "projectName": "TeknoYazılımApi",
-        "projectPath": "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\TeknoYazılımApi\\TeknoYazılımApi.csproj",
+        "projectPath": "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\TeknoYazılımApi\\TeknoYazılımApi.csproj",
         "packagesPath": "C:\\Users\\HASAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\TeknoYazılımApi\\obj\\",
+        "outputPath": "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\TeknoYazılımApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

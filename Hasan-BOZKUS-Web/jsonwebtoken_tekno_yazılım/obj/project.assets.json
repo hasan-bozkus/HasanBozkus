@@ -838,11 +838,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\jsonwebtoken_tekno_yazılım\\jsonwebtoken_tekno_yazılım.csproj",
+      "projectUniqueName": "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\jsonwebtoken_tekno_yazılım\\jsonwebtoken_tekno_yazılım.csproj",
       "projectName": "jsonwebtoken_tekno_yazılım",
-      "projectPath": "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\jsonwebtoken_tekno_yazılım\\jsonwebtoken_tekno_yazılım.csproj",
+      "projectPath": "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\jsonwebtoken_tekno_yazılım\\jsonwebtoken_tekno_yazılım.csproj",
       "packagesPath": "C:\\Users\\HASAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\jsonwebtoken_tekno_yazılım\\obj\\",
+      "outputPath": "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\jsonwebtoken_tekno_yazılım\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aWrVXrz0diVNm2FterZm1bSxUA8aO9o5Kw1YRCIWCsgMsM9SUqCvfFyYkRrT+0pm4UEWt6P8sSGkHwlwPweMXw==",
+  "dgSpecHash": "Sk4l9BBL3nWuAjnEitMSThir+1LggQQocbKJ5fOp018wy/vNh7dBV9fQ+6Pjts4Kg1oe/lB0s1ylBzJGEuyLQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\SignalR chat api\\SignalR chat api.csproj",
+  "projectFilePath": "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\SignalR chat api\\SignalR chat api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HASAN\\.nuget\\packages\\entityframework\\6.0.0\\entityframework.6.0.0.nupkg.sha512",
     "C:\\Users\\HASAN\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",

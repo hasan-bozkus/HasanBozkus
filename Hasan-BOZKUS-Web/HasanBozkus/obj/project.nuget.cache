@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MKVGAYQx3dR6tpj3jiiDLFG2KmyXmzaoJtZ2oUaV1lkH3L1R1UoPPhiqKbz60LaZr0A4rJKuCTQYOlPIavK4Zw==",
+  "dgSpecHash": "qxAscElbXZ1BvSZNnnb31QAiQKjszLYfraV9VV2yr0XWDXS6AqI6Tr7qOFSVqyLKyfb4fspgRAhsN1jz8GQqlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\HasanBozkus\\HasanBozkus.csproj",
+  "projectFilePath": "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\HasanBozkus\\HasanBozkus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HASAN\\.nuget\\packages\\azure.ai.translation.text\\1.0.0-beta.1\\azure.ai.translation.text.1.0.0-beta.1.nupkg.sha512",
     "C:\\Users\\HASAN\\.nuget\\packages\\azure.core\\1.31.0\\azure.core.1.31.0.nupkg.sha512",

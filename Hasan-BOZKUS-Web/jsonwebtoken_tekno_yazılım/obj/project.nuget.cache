@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qvz2AbWSGK3EZuaMVFwUicDJsC/0eil2Vu5vObZAHL6FX8FV8FJp4Um0V2XsBrKoiJ21kbZqI8owde0bHuqq6g==",
+  "dgSpecHash": "UHfWdxKtRa9HnbjCBmojDenhJr8Wku++X3M6GDRJhEiKQ5gWPyi6+JSYp7hoxmSWv9AqJ0dFDkiPK//SVIMZtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\jsonwebtoken_tekno_yazılım\\jsonwebtoken_tekno_yazılım.csproj",
+  "projectFilePath": "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\jsonwebtoken_tekno_yazılım\\jsonwebtoken_tekno_yazılım.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HASAN\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.13\\microsoft.aspnetcore.authentication.jwtbearer.6.0.13.nupkg.sha512",
     "C:\\Users\\HASAN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

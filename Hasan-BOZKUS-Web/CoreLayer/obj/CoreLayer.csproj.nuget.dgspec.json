@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\CoreLayer\\CoreLayer.csproj": {}
+    "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\CoreLayer\\CoreLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\CoreLayer\\CoreLayer.csproj": {
+    "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\CoreLayer\\CoreLayer.csproj",
+        "projectPath": "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\CoreLayer\\CoreLayer.csproj",
         "packagesPath": "C:\\Users\\HASAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\CoreLayer\\obj\\",
+        "outputPath": "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

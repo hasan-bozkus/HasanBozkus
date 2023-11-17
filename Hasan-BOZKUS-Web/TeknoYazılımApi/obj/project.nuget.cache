@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xDWD5ne4FKQZQ5GzEMwNSq2of2fUG9w8mhKnFbS+joVav/tkquodgO5LMB8vFd1N1oEl08u1eQWfyblPhk3WkQ==",
+  "dgSpecHash": "eNmGx6U11ouHahWr/atAHhxvpat4L2pq65cXLs4HHrPM2CsKFo/k06ClEh4YDpge5RxbuVasVRUEEhej2dU+Cg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HASAN\\Documents\\GitHub\\Hasan-BOZKUS-Web\\TeknoYazılımApi\\TeknoYazılımApi.csproj",
+  "projectFilePath": "C:\\Users\\HASAN\\Documents\\GitHub\\HasanBozkus\\Hasan-BOZKUS-Web\\TeknoYazılımApi\\TeknoYazılımApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HASAN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HASAN\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
