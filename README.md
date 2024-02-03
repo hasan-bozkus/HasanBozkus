@@ -1,4 +1,4 @@
-# Hasan BOZKUŞ ASP.NET Core 5.0 ( 6.0 ) ProjeKampi
+# Hasan BOZKUŞ ASP.NET Core 5.0 ( 6.0 ) Proje Kampı
 
 Sitenin linki: https://hasanbozkus.com.tr
 
