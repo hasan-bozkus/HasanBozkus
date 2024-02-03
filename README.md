@@ -2,7 +2,36 @@
 
 Sitenin linki: https://hasanbozkus.com.tr
 
-# Bu projede ilk olarak Asp.Net Core 5.0 ( sonrasında 6.0 ) teknolojisi, N Tier Architecture, Entity Framework Core, OOP, AOP vb. teknikler kullanıldı.
+Kullanılan Teknolojiler:
+AspNet Core 5.0
+
+Entity Framework Core
+
+N Tier Architecture
+
+Repository Design Pattern
+
+Fluent Validation
+
+Restful Api
+
+Deploy
+
+Github Yönetimi
+
+Mvc
+
+Unit of Work
+
+Charts
+
+Ajax
+
+Reporting
+
+Identity
+
+Rolleme ve Daha Fazlası
 
 <h2>Görevler: </h2>
 
