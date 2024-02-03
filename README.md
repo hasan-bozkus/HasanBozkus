@@ -2,7 +2,8 @@
 
 Sitenin linki: https://hasanbozkus.com.tr
 
-Kullanılan Teknolojiler:
+<h2>Kullanılan Teknolojiler:</h2>
+
 AspNet Core 5.0
 
 Entity Framework Core
