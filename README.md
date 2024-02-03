@@ -56,3 +56,37 @@ Video 76: <del>Yazar'ın Bildirimler kısmında bütün bildirimler gözükmesin
 Video 79: <del>Notificationların ne kadar süre önce gönderildiğinin yazdırılması.</del>
  
 Video 100: <del>Projeyi canlıya taşımak.</del> 
+
+<h2>Kendim Eklemiş Olduklarım:</h2>
+
+Blog Yazılarının Aranan Kelimeye Göre Eşleştirilip Getirilmesi.
+
+Blog Yazısını Yazana Göre Yazarın E-Posta, Sosyal Medya vb. hesapların getirilmesi.
+
+Yazar Panelinde Resim Ekleme ve Güncelleme Sorununu Düzeltilmesi.
+
+Yazar P Blog Ekleme-Güncelleme ve Site İçi E-Posta yazışmaları için CK Editör Eklenmesi.
+
+Admin Panelinde Bildirimlerinin Yapılması.
+
+Admin Panelinde Hakkında Kısmınının Düzenlenmesi.
+
+Admin Panelinde Site için Sosyal Medya Mecralarını Ayarlanması.
+
+Admin Panelinde Blog Yazlarına Yapılan Yorumların Silinmesi.
+
+Admin Panelinde E-Posta Haber Bültenine Abone Olan kullanıcılarına E-Posta Gönderilmesi.
+
+Vitrin - Yazar - Admin Panellerinin Statik Alanlarına Çoklu Dil Desteği Getirilmesi.
+<br />
+<u>Desteklenen Diller: </u><i>Türkçe (tr-TR) - Arapça (ar-QA) - İngilizce (ABD, en-US) - Rusça (ru-RU) - Almanca (de-DE) - Japonca (ja-JP) - Korece (ko-KR)</i>
+
+Vitrin - Yazar - Admin Panellerinin Route Yapısının Değişmesi.
+<br />
+<u>Eski Route Yapısı: </u><i> https://hasanbozkus.com.tr/Blog/BlogReadAll/32 </i>
+<br />
+<u>Yeni Route Yapısı:</u> <i> https://hasanbozkus.co.tr/tr-TR/Blog/BlogReadAll/32/Asp-Net-Core-SignalR-6-SignalRda-IHubContext-Kullanimi</i>
+
+
+
+
