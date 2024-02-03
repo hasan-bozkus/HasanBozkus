@@ -63,6 +63,8 @@ Blog Yazılarının Aranan Kelimeye Göre Eşleştirilip Getirilmesi.
 
 Blog Yazısını Yazana Göre Yazarın E-Posta, Sosyal Medya vb. hesapların getirilmesi.
 
+Blog Yazılarının Seo Uyumlu Hale Getirilmesi.
+
 Yazar Panelinde Resim Ekleme ve Güncelleme Sorununu Düzeltilmesi.
 
 Yazar Panelinde Blog Ekleme-Güncelleme ve Site İçi E-Posta yazışmaları için CK Editör Eklenmesi.
