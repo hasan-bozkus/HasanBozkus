@@ -65,7 +65,7 @@ Blog Yazısını Yazana Göre Yazarın E-Posta, Sosyal Medya vb. hesapların get
 
 Yazar Panelinde Resim Ekleme ve Güncelleme Sorununu Düzeltilmesi.
 
-Yazar P Blog Ekleme-Güncelleme ve Site İçi E-Posta yazışmaları için CK Editör Eklenmesi.
+Yazar Panelinde Blog Ekleme-Güncelleme ve Site İçi E-Posta yazışmaları için CK Editör Eklenmesi.
 
 Admin Panelinde Bildirimlerinin Yapılması.
 
@@ -86,6 +86,10 @@ Vitrin - Yazar - Admin Panellerinin Route Yapısının Değişmesi.
 <u>Eski Route Yapısı: </u><i> https://hasanbozkus.com.tr/Blog/BlogReadAll/32 </i>
 <br />
 <u>Yeni Route Yapısı:</u> <i> https://hasanbozkus.co.tr/tr-TR/Blog/BlogReadAll/32/Asp-Net-Core-SignalR-6-SignalRda-IHubContext-Kullanimi</i>
+
+<h2>Sırada Ekleyeceklerim</h2>
+
+# # Yazar Panelinde Yazarların Kendi Aralarında Yazışacakları Chat Odaları (SignalR Kullanılacak)
 
 
 
