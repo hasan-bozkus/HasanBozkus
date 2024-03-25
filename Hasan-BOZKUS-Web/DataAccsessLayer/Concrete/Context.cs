@@ -10,7 +10,6 @@ namespace DataAccsessLayer.Concrete
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"server=(localdb)\hasan; database=HaseneBlog; integrated security=true;");
-            //optionsBuilder.UseSqlServer("server=77.245.159.27\\MSSQLSERVER2019; database=HaseneBlog; user=AdminBenim; password=Hayalet0147.");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
